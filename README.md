@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&text=Anjunno's%20GITHUB&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36)
 <div align="center">
   </div>
 
@@ -35,13 +36,15 @@
 
 ---
 
+---
+
 ### 🚀 저의 프로젝트들
 
 제가 참여했거나 현재 진행 중인 주요 프로젝트들입니다.
 
-* **[IoT 기반, 1인 가구 에너지 절감 시스템]**
-    * ✨ 최근 1인 가구의 전력 소비 증가 문제를 해결하기 위해 IoT 플러그와 AI를 활용, 개인 맞춤형 에너지 절약 조언을 제공하고 모바일 앱 및 빅스비 캡슐로 편리하게 제어하는 시스템입니다.
-    * 🔗 [링크](https://github.com/anjunno/aiot_smart_home_flutter)
+* **[IoT 기반, 1인 가구 에너지 절감 시스템](https://github.com/anjunno/aiot_smart_home_flutter)**
+    * ✨ 최근 급증하는 1인 가구의 전력 소비 문제를 해결하기 위해 개발되었습니다. **IoT 플러그와 AI 기술**을 활용해 개인 맞춤형 에너지 절약 조언을 제공하고, **모바일 앱과 빅스비 캡슐**로 편리하게 기기를 제어하며 에너지 절약을 돕는 시스템입니다.
+
 <!--
     * * **[프로젝트 2 이름]**
     * 💡 [프로젝트 2에 대한 간략한 설명]
@@ -74,7 +77,7 @@
 [![이메일](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 ---
-
-<div align="center">
-   즐거운 코딩되세요! 언제나 배움을 멈추지 않는 개발자가 되기 위해 노력하겠습니다. 
+즐거운 코딩되세요! 언제나 배움을 멈추지 않는 개발자가 되기 위해 노력하겠습니다. 
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&fontSize=50&animation=shark&fontAlign=68&fontAlignY=36&section=footer)
+   
 </div>
