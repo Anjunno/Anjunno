@@ -18,8 +18,8 @@
 | **언어** | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)             ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)             |
 | **프레임워크** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)         ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)         ![JPA](https://img.shields.io/badge/JPA-4479A1?style=for-the-badge&logo=hibernate&logoColor=white)           |
 | **데이터베이스** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)             ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) |
-| **클라우드** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)             |
-| **도구** | ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)                   ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
+| **클라우드** | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)             |
+| **도구** | ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)                    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)|
 
 ---
 
@@ -38,10 +38,11 @@
 ### 🚀 저의 프로젝트들
 
 제가 참여했거나 현재 진행 중인 주요 프로젝트들입니다.
+
+* **[IoT 기반, 1인 가구 에너지 절감 시스템]**
+    * ✨ 최근 1인 가구의 전력 소비 증가 문제를 해결하기 위해 IoT 플러그와 AI를 활용, 개인 맞춤형 에너지 절약 조언을 제공하고 모바일 앱 및 빅스비 캡슐로 편리하게 제어하는 시스템입니다.
+    * 🔗 [링크](https://github.com/anjunno/aiot_smart_home_flutter)
 <!--
-* **[프로젝트 1 이름]**
-    * ✨ [프로젝트 1에 대한 간략한 설명: 어떤 기술을 사용했고, 무엇을 해결했는지]
-    * 🔗 [프로젝트 1 링크](https://github.com/YOUR-USERNAME/PROJECT-1-REPO)
     * * **[프로젝트 2 이름]**
     * 💡 [프로젝트 2에 대한 간략한 설명]
     * 🔗 [프로젝트 2 링크](https://github.com/YOUR-USERNAME/PROJECT-2-REPO)
