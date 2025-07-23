@@ -54,14 +54,12 @@
 
 <div align="center">
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=anjunno&show_icons=true&theme=nord&hide_border=true&count_private=true" alt="anjunno's GitHub Stats" width="48%" style="max-width: 400px;"/>
-    &nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjunno&layout=compact&theme=nord&hide_border=true" alt="Top Languages" width="48%" style="max-width: 400px;"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=anjunno&show_icons=true&theme=nord&hide_border=true&count_private=true" alt="anjunno's GitHub Stats" width="49%" style="max-width: 400px;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjunno&layout=compact&theme=nord&hide_border=true" alt="Top Languages" width="49%" style="max-width: 400px; height: 205px"/>
   </p>
   <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=anjunno&theme=nord&hide_border=true" alt="GitHub Streak Stats" width="48%" style="max-width: 400px;"/>
-    &nbsp;
-    <img src="https://github-trophies.vercel.app/?username=anjunno&theme=discord&no-bg=true&no-frame=true" alt="GitHub Trophies" width="48%" style="max-width: 400px;"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=anjunno&theme=nord&hide_border=true" alt="GitHub Streak Stats" width="49%" style="max-width: 400px;"/>
+    <img src="https://github-trophies.vercel.app/?username=anjunno&theme=discord&no-bg=true&no-frame=true" alt="GitHub Trophies" width="49%" style="max-width: 400px;"/>
   </p>
 </div>
 
