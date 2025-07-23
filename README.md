@@ -53,13 +53,16 @@
 제 GitHub 활동 통계입니다. 꾸준히 성장하는 모습을 보여드릴게요!
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=nord&hide_border=true&count_private=true" alt="YOUR-USERNAME's GitHub Stats"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=nord&hide_border=true" alt="Top Languages"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=nord&hide_border=true" alt="GitHub Streak Stats"/>
-  <br/>
-  <img src="https://github-trophies.vercel.app/?username=YOUR-USERNAME&theme=discord&no-bg=true&no-frame=true" alt="GitHub Trophies"/>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=anjunno&show_icons=true&theme=nord&hide_border=true&count_private=true" alt="anjunno's GitHub Stats" width="48%" style="max-width: 400px;"/>
+    &nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjunno&layout=compact&theme=nord&hide_border=true" alt="Top Languages" width="48%" style="max-width: 400px;"/>
+  </p>
+  <p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=anjunno&theme=nord&hide_border=true" alt="GitHub Streak Stats" width="48%" style="max-width: 400px;"/>
+    &nbsp;
+    <img src="https://github-trophies.vercel.app/?username=anjunno&theme=discord&no-bg=true&no-frame=true" alt="GitHub Trophies" width="48%" style="max-width: 400px;"/>
+  </p>
 </div>
 
 ---
