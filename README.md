@@ -17,10 +17,10 @@
   | 카테고리 | 기술 |
   | :------- | :--- |
   | **언어** | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) |
-  | **프레임워크** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![JPA](https://img.shields.io/badge/JPA-4479A1?style=for-the-badge&logo=hibernate&logoColor=white) |
+  | **프레임워크** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)  |
   | **데이터베이스** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) |
   | **클라우드** | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) |
-  | **도구** | ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) |
+  | **도구** | ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) |
 </div>
 
 ---
@@ -29,11 +29,16 @@
 
 저는 끊임없이 배우고 성장하고 있어요.
 
-* 📚 **`정보처리기사`** 자격증 취득을 위해 열심히 준비 중입니다.
-* 📊 **`SQLD`** 자격증을 위한 데이터베이스 지식 습득에 집중하고 있습니다.
 * 💻 **`Spring`** 프레임워크의 학습을 통해 백엔드 개발 역량을 강화하고 있습니다.
 
 새로운 기술과 지식을 탐구하며 개발자로서의 성장을 멈추지 않을 것입니다.
+
+---
+
+### 📜 자격증 취득 현황
+
+-   **정보처리기사** 
+-   **SQLD** (SQL Developer)
 
 ---
 
@@ -41,11 +46,14 @@
 
 제가 참여했거나 현재 진행 중인 주요 프로젝트들입니다.
 
-* **[IoT 기반, 1인 가구 에너지 절감 시스템](https://github.com/anjunno/aiot_smart_home_flutter)**
-    * ✨ 최근 급증하는 1인 가구의 전력 소비 문제를 해결하기 위해 개발되었습니다. **IoT 플러그와 AI 기술**을 활용해 개인 맞춤형 에너지 절약 조언을 제공하고, **모바일 앱과 빅스비 캡슐**로 편리하게 기기를 제어하며 에너지 절약을 돕는 시스템입니다.
+* **[YATA](https://github.com/anjunno/YATA)**
+    * 대학교 학생들을 위한 **택시 합승 매칭 애플리케이션**입니다. **Flutter**와 **Node.js**를 기반으로, 실시간 채팅 및 빠른 매칭 시스템을 통해 통학 비용 절감을 돕습니다. 주요 기능으로는 **JWT 인증, Socket.IO 기반 채팅, 카카오 T 딥링킹** 등이 있습니다.
 
-* **[~~EmoLink~~ -> ChemiQ(변경됨) (진행중)](https://github.com/anjunno/ChemiQ)**
-    * ✨ ChemiQ는 하루하루 주어지는 랜덤 미션을 통해 파트너와 함께 즐기며 케미를 쌓는 1:1 미션 공유 앱입니다. 사진과 짧은 텍스트로 미션을 수행하고, 상대방의 결과물에 점수와 코멘트를 남기며 관계를 게임처럼 재미있게 강화할 수 있습니다.
+* **[깜빡(IoT 기반, 1인 가구 에너지 절감 시스템)](https://github.com/anjunno/aiot_smart_home_flutter)**
+    * 최근 급증하는 1인 가구의 전력 소비 문제를 해결하기 위해 개발되었습니다. **IoT 플러그와 AI 기술**을 활용해 개인 맞춤형 에너지 절약 조언을 제공하고, **모바일 앱과 빅스비 캡슐**로 편리하게 기기를 제어하며 에너지 절약을 돕는 시스템입니다.
+
+* **[ChemiQ](https://github.com/anjunno/ChemiQ)**
+    * ChemiQ는 하루하루 주어지는 랜덤 미션을 통해 파트너와 함께 즐기며 케미를 쌓는 1:1 미션 공유 앱입니다. 사진과 짧은 텍스트로 미션을 수행하고, 상대방의 결과물에 점수와 코멘트를 남기며 관계를 게임처럼 재미있게 강화할 수 있습니다.
 
 
 ---
