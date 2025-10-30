@@ -79,7 +79,7 @@
 
   궁금한 점이 있다면 언제든지 연락 주세요!
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anjunno_example/)
+  [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@anjunno/posts)
   [![이메일](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anjunno.dev@example.com)
 </div>
 
